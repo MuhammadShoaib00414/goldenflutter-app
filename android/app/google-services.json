@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "334461559852",
+    "project_id": "signaltrade-27fef",
+    "storage_bucket": "signaltrade-27fef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334461559852:android:d648abdab63259ab489d89",
+        "android_client_info": {
+          "package_name": "com.example.goldexia_fx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw3OyYmQn0fStwTY73_kxtN_5vejRVwqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334461559852:android:41a8052ba0d1212e489d89",
+        "android_client_info": {
+          "package_name": "com.manoj.goldexia_fx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw3OyYmQn0fStwTY73_kxtN_5vejRVwqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

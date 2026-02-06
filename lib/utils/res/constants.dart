@@ -1,0 +1,1 @@
+const kBundleId = 'ai_image.generator.aiphoto_editor';
