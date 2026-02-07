@@ -246,12 +246,12 @@ class _SignalsScreenState extends State<SignalsScreen> {
                                 if (signal.tradeStatusImage != null &&
                                     signal.tradeStatusImage!.isNotEmpty)
                                   Positioned(
-                                    top: 165,
+                                    top: 162,
                                     child: Image.network(
                                       signal.tradeStatusImage ?? '',
-                                      width: 150,
+                                      width: 190,
                                       height: 90,
-                                      fit: BoxFit.contain,
+                                      fit: BoxFit.fitWidth,
                                       errorBuilder:
                                           (context, error, stackTrace) =>
                                               const SizedBox(),
